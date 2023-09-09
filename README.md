@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,python,javascript,typescript,nodejs,nextjs,react,angular" /><br>
-  <img src="https://skillicons.dev/icons?i=tailwind,mongodb,mysql,html,css,unity,ps,blender" />
+  <img src="https://skillicons.dev/icons?i=aws,tailwind,mongodb,mysql,html,css,unity,ps,blender" />
 </div>
 <br />
 <div align="center">
