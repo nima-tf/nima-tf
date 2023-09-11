@@ -1,7 +1,7 @@
 ### About Me
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <div align="left">
-- :computer: I'm a Software Engineer, with a Electrical Engineering background<br>
+- :computer: I'm a Software Engineer, with an Electrical Engineering background<br>
 - :hourglass_flowing_sand: &nbsp; Currently exploring Firebase, AWS, and Blender<br>
 - :rocket: Always ready to collaborate for Dev Experiments<br>
 </div>
