@@ -1,46 +1,39 @@
-<!--
-**nima-tf/nima-tf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<div align="left">
+- :computer: I'm a Software Engineer<br>
+- :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure<br>
+- :rocket: Always ready to collaborate for Dev Experiments<br>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-<h3 alight="center">
-  A software developer based in Canada
-</h3>
--->
-
-<div align="center">
+### Where to find me
+<div align="left">
   <a href="https://www.linkedin.com/in/nima-tf/" target="_blank">
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>  
+  </a>   
+ &ensp;
   <a href="mailto:nima.taherifard@gmail.com">
       <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>  
-<!--
-  <a href="https://" target="_blank" target="_blank">
-     <img alt="Personal website" src="e" target="_blank" />
-  </a>
--->
-</div>
- 
-<h2 align="center">
-  Languages and tools
-</h2>
-<br/>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,javascript,typescript,nodejs,nextjs,react,angular" /><br>
-  <img src="https://skillicons.dev/icons?i=aws,tailwind,mongodb,mysql,html,css,unity,ps,blender" />
 </div>
 <br />
-<div align="center">
+ 
+### Main Technologies
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,nextjs,react,python,cs,typescript,nodejs" /><br>
+</div>
 
-  ![nima-tf's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nima-tf&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+#### Have Experience or Learning
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=javascript,angular,tailwind,html,css,firebase" /><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,unity,ps,blender" />
+</div>
+
+<br />
+
+### Statistics
+<div align="left">
+
+![nima-tf's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nima-tf&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+</div>
