@@ -2,7 +2,7 @@
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <div align="left">
 - :computer: I'm a Software Engineer, with a Electrical Engineering background<br>
-- :hourglass_flowing_sand: Exploring Firebase, ASW, and Blender<br>
+- :hourglass_flowing_sand: &nbsp; Currently exploring Firebase, AWS, and Blender<br>
 - :rocket: Always ready to collaborate for Dev Experiments<br>
 </div>
 
@@ -25,11 +25,18 @@
 
 #### Have Experience or Learning
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,angular,tailwind,html,css,firebase" /><br>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,unity,ps,blender" />
+  <img src="https://skillicons.dev/icons?i=angular,tailwind,firebase,javascript,html,css" /><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,pytorch,unity,ps,blender" />
 </div>
 
 <br />
+
+<!--
+### Work Examples
+<div align="left">
+<img src="" width="230" height="410">
+</div>
+-->
 
 ### Statistics
 <div align="left">
