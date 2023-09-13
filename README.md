@@ -26,7 +26,7 @@
 #### Have Experience or Learning
 <div align="left">
   <img src="https://skillicons.dev/icons?i=express,angular,tailwind,firebase,nodejs,typescript,javascript,html,css" /><br>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,pytorch,unity,ps,blender" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,pytorch" />
 </div>
 
 <br />
