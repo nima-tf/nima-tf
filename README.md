@@ -9,12 +9,17 @@
 ### Where to find me
 <div align="left">
   <a href="https://www.linkedin.com/in/nima-tf/" target="_blank">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+      <img alt="LinkedIn" title="My LinkedIn Profile"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
  &nbsp;
   <a href="mailto:nima.taherifard@gmail.com">
-      <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>  
+      <img alt="Gmail" title="My Gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>   
+ &nbsp;
+  <a href="https://github.com/nima-tf?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/nima-tf?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+      
 </div>
 <br />
  
