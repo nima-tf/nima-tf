@@ -20,13 +20,13 @@
  
 ### Main Technologies
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,nextjs,react,python,cs" /><br>
+  <img src="https://skillicons.dev/icons?i=,nextjs,react,python" /><br>
 </div>
 
 #### Have Experience or Learning
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=express,angular,tailwind,firebase,nodejs,typescript,javascript,html,css" /><br>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,pytorch" />
+  <img src="https://skillicons.dev/icons?i=express,angular,dotnet,cs,nodejs,typescript,javascript,html,css" /><br>
+  <img src="https://skillicons.dev/icons?i=,tailwind,mongodb,mysql,aws,pytorch,firebase" />
 </div>
 
 <br />
