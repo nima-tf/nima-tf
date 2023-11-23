@@ -2,7 +2,6 @@
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <div align="left">
 - :computer: I'm a Software Engineer with an Electrical Engineering background<br>
-- :hourglass_flowing_sand: &nbsp; This year, I am learning LLMs, Rust, htmx<br>
 - :rocket: Always ready to collaborate for Dev Experiments<br>
 </div>
 
@@ -25,13 +24,13 @@
  
 ### Main Technologies
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nextjs,react,typescript,python" /><br>
+  <img src="https://skillicons.dev/icons?i=cs,python,dotnet,nextjs,react,typescript" /><br>
 </div>
 
-#### Have Experience or Learning
+#### Experiences
 <div align="left">
   <img src="https://skillicons.dev/icons?i=express,angular,nodejs,javascript,html,css" /><br>
-  <img src="https://skillicons.dev/icons?i=tailwind,mongodb,mysql,aws,pytorch,firebase" />
+  <img src="https://skillicons.dev/icons?i=tailwind,mongodb,mysql,aws,pytorch,unity" />
 </div>
 
 <br />
