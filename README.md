@@ -1,10 +1,3 @@
-### About Me
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<div align="left">
-- :computer: I'm a Software Engineer with an Electrical Engineering background<br>
-- :rocket: Always ready to collaborate for Dev Experiments<br>
-</div>
-
 ### Where to find me
 <div align="left">
   <a href="https://www.linkedin.com/in/nima-tf/" target="_blank">
