@@ -1,3 +1,4 @@
+<!--
 ### Where to find me
 <div align="left">
   <a href="https://www.linkedin.com/in/nima-tf/" target="_blank">
@@ -28,7 +29,7 @@
 
 <br />
 
-<!--
+
 ### Work Examples
 <div align="left">
 <img src="" width="230" height="410">
