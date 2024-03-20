@@ -34,10 +34,11 @@
 <div align="left">
 <img src="" width="230" height="410">
 </div>
--->
+
 
 ### Statistics
-<div align="left">
+-->
+<div align="center">
 
 ![nima-tf's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nima-tf&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
